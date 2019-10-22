@@ -1,4 +1,4 @@
-@@:developer.rakeshchouhan@gmail.com
+@@:myemail@gmail.com
 @help:stackoverflow.com
 @fb:facebook.com
 @lkd:linkedin.com
